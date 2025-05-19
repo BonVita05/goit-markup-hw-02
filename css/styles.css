@@ -49,8 +49,7 @@ ul {
         color: #2e2f42;
 }
 
-.navigation-list-item:hover,
-.navigation-list-item:focus {
+.navigation-list-item:hover {
     color: #404bbf;
 }
 
